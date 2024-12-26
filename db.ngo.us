@@ -84,4 +84,10 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; YKQ Personal
+; Submitted by networking team <ykq001@gmail.com>
+ykq 86400 IN NS cash.ns.cloudflare.com.
+ykq 86400 IN NS iris.ns.cloudflare.com.
+
+
 ; ========== END ORGANIZATIONS ================
